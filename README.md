@@ -17,3 +17,8 @@ The export runtime is provided by Webpage HTML Export; its MIT licence is in EXP
 ## EGPT expansion — 10 October 2026
 
 EGPT now contains 98 museum references and 108 museum images, alongside 100 illustrated hieroglyph cards. The expansion adds 45 sourced objects, four collections and boards, six comparisons (16 total), 13 collection image sheets, materials and visual-vocabulary indexes, and three studio guides. All references have local images; vault and website links were checked before publication.
+
+
+## MCDNA
+
+Macedonian Visual Language research foundation: 22 notes, four attributed photographs, and a visual board. Published under `docs/mcdna/`; portable Obsidian source is in `vaults/MCDNA/`. The website includes searchable notes, internal links, backlinks and a responsive image board. Research gaps are documented in the vault.

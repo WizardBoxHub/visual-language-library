@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "id": "i0",
+      "type": "file",
+      "file": "Attachments/134630619.jpg",
+      "x": 0,
+      "y": 0,
+      "width": 700,
+      "height": 660
+    },
+    {
+      "id": "n0",
+      "type": "text",
+      "text": "## [[Galichnik - Wedding arrival]]\n\nBiljana Jurukovski · CC BY-SA 4.0\n\nOpen the note for visual study prompts and source.",
+      "x": 0,
+      "y": 680,
+      "width": 700,
+      "height": 200
+    },
+    {
+      "id": "i1",
+      "type": "file",
+      "file": "Attachments/178934818.jpg",
+      "x": 760,
+      "y": 0,
+      "width": 700,
+      "height": 660
+    },
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "## [[Galichnik - Mens wedding dress]]\n\nOrce Wiki · CC BY-SA 4.0\n\nOpen the note for visual study prompts and source.",
+      "x": 760,
+      "y": 680,
+      "width": 700,
+      "height": 200
+    },
+    {
+      "id": "i2",
+      "type": "file",
+      "file": "Attachments/178934837.jpg",
+      "x": 0,
+      "y": 940,
+      "width": 700,
+      "height": 660
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## [[Galichnik - Womens wedding dress]]\n\nOrce Wiki · CC BY-SA 4.0\n\nOpen the note for visual study prompts and source.",
+      "x": 0,
+      "y": 1620,
+      "width": 700,
+      "height": 200
+    },
+    {
+      "id": "i3",
+      "type": "file",
+      "file": "Attachments/134630600.jpg",
+      "x": 760,
+      "y": 940,
+      "width": 700,
+      "height": 660
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "## [[Galichnik - Belt and hanging ornaments]]\n\nBiljana Jurukovski · CC BY-SA 4.0\n\nOpen the note for visual study prompts and source.",
+      "x": 760,
+      "y": 1620,
+      "width": 700,
+      "height": 200
+    }
+  ],
+  "edges": []
+}
